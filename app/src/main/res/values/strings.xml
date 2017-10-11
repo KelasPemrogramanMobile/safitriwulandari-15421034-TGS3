@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Menu Registrasi</string>
+    <string name="app_name2">Menu REGISTRASI</string>
+    <string-array name="arAgama">
+        <item>Pilih Agamamu</item>
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Budha</item>
+        <item>Hindu</item>
+    </string-array>
+
+</resources>
